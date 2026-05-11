@@ -1,0 +1,11 @@
+CONCLUSIONES
+
+- Se automatizó correctamente el flujo solicitado de la API PetStore.
+- Se validó:
+  * creación de mascota
+  * consulta por ID
+  * actualización de mascota
+  * consulta por status
+- Karate DSL permitió implementar pruebas REST de manera rápida y legible.
+- Se generaron reportes automáticos HTML con evidencias de ejecución.
+- El framework puede escalarse para más escenarios API.
